@@ -1,4 +1,5 @@
-/* size.c */
+/* Dimensione in byte dei principali tipi di dato */
+
 #include <stdio.h>
 
 int main(void) {
